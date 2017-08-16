@@ -1,4 +1,6 @@
 
+install command
+sudo pip install mysql-python
 
 mybe useful url
 bloomfilter in python: https://github.com/jaybaird/python-bloomfilter
